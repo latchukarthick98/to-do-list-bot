@@ -9,5 +9,5 @@ olefile==0.44
 opencv-contrib-python==3.2.0.7
 Pillow==4.1.1
 requests==2.18.1
-urllib3==1.21.1
+urllib3==1.24.2
 virtualenv==15.1.0
